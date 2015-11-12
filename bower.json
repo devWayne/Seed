@@ -1,0 +1,15 @@
+{
+  "name": "Seed",
+  "version": "1.0.0",
+  "homepage": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendor",
+    "test",
+    "tests",
+	"src/lib"
+  ]
+}
